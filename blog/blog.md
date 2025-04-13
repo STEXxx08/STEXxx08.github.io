@@ -16,7 +16,7 @@ tags: jekyll, tutorial
 ## Step 2.1: 使用 Kaplan-Meier 生存模型绘制总体生存曲线
 Kaplan-Meier 生存曲线是用于估计不同时间点的生存概率的经典方法，通常用于探索总体生存率。通过该模型，我们可以直观地看到随着时间推移的生存率变化，从而了解样本的生存情况。
 
-![Kaplan-Meier 生存曲线](images/p1.png)
+![Kaplan-Meier 生存曲线](/images/p1.png)
 
 ## Step 2.2: 单变量生存分析
 接下来，我们通过两种方法来分析单一变量对生存模型的影响：
