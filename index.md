@@ -1,5 +1,3 @@
-layout: post
-theme: jekyll-theme-Tactile
 ---
 
 # 一个生存分析样例的过程简析
