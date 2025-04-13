@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2025-04-13
+theme: jekyll-theme-Tactile
 ---
 
 # 一个生存分析样例的过程简析
