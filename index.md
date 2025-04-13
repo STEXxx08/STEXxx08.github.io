@@ -1,11 +1,3 @@
----
-layout: post
-title: "一个生存分析样例的过程简析"
-date: 2025-04-13
-categories: [博客, Jekyll]
-theme: jekyll-theme-Tactile
----
-
 
 # 简单探讨生存分析样例一则
 
